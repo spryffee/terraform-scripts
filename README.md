@@ -5,7 +5,7 @@ Simple Terraform script to deploy ec2 instance for pentest
 + Terraform installed (just binary)
 + Keypair from AWS to access instance with SSH
 
-#### Example
+#### Usage example
 
 `terraform plan` - show infrastructure going to execute
 
